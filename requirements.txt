@@ -1,0 +1,12 @@
+opencv-python
+litellm
+torch
+torchvision
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+numpy
+requests
+python-dotenv
+pillow
+pyttsx3
+SpeechRecognition
+PyAudio
